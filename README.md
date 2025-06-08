@@ -123,4 +123,4 @@ CMD ["nginx", "-g", "daemon off;"]
 
 ---
 
-Jika ada pertanyaan atau butuh bantuan, silakan hubungi saya!
+Jika ada pertanyaan atau butuh bantuan, silakan hubungi saya via email fikri.muha28@gmail.com!
